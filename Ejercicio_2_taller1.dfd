@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Digite el numero de dos digitos'
+5
+1
+1
+N
+7
+0
+1
+48
+(N>=-999  and N<=-100) or (N>=100 and N <= 999) 
+4
+1
+47
+'verifique su numero, debe ser de tres digitos'
+13
+4
+1
+34
+'su numero es de tres cifras: ', N
+13
+1
